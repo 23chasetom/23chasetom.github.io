@@ -12,15 +12,17 @@ labels:
 ---
 
 ## Smart Questions
-Asking smart questions are very important. It demonstrates respect for the responder and increases the likelihood of receiving actual helpful responses. A smart question is essentially built on three fundamentals:
+Asking smart questions are very important. It demonstrates respect for the responder and increases the likelihood of receiving actual helpful responses.  
+A smart question is essentially built on three fundamentals:
 
-1) Research: Before even asking the question, research and look for resources.
-2) Context: Provide a clear, complete picture of your environment, what you're trying to do, what you've already tried, and the exact error or unexpected behavior you're encountering.
-3) Precision: Be specific and concise. State your goal clearly, and ask a direct question that guides experts toward the gap in your understanding.
+1) Research: Before even asking the question, research and look for resources.  
+2) Context: Provide a clear, complete picture of your environment, what you're trying to do, what you've already tried, and the exact error or unexpected behavior you're encountering.  
+3) Precision: Be specific and concise. State your goal clearly, and ask a direct question that guides experts toward the gap in your understanding.  
 
 ## Example of a Good Question: 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e7fd93f7-18b1-4cde-9774-cc7b91261d65" />
-"URL: https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color"
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e7fd93f7-18b1-4cde-9774-cc7b91261d65" />  
+"URL: https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color"  
+
 
 Before asking the question, the person researches about there problems and tests it through coding. As a result, he receives a valid and useful reponse which answers his question.
 
