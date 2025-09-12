@@ -10,8 +10,15 @@ labels:
   - Learning
 ---
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+Hmm... Java and JavaScript weren't that hard for me, so I was sure TypeScript wouldn't be too complicated. Now, reflecting on it, I think it's an incredibly useful language that enables cleaner and more sophisticated programming.
+
+However, coming from JavaScript, TypeScript initially feels like extra complexity, though the benefits are undeniable. When writing in TypeScript, there's so much more to account for; I have to actually consciously think about data types and structure. Despite this, I've learned a great deal about its usefulness. It's like a cooler, sleeker, and more updated version of JavaScript.
+
+From a software engineering perspective, I believe TypeScript is a good language because it offers powerful tools and enforced formatting that, in the long run, make coding easier and more reliable.
+
+The practice WODs have been very useful for actually applying and remembering TypeScript concepts. Often, I don't fully know what I'm doing at first, but redoing the WODs and eventually completing them efficiently teaches me a tremendous amount.
+
+This style of learning, where we study outside of class and tackle assignments like WODs during class is very different from my traditional classes. But I like it. It's different, and most importantly, it's engaging. I'm not just mindlessly reading a lecture that I could have gone through at home. It's enjoyable, albeit a little stressful, since I'm tasked with active, graded work every time I come to class. Ultimately, I believe this model will teach me self-discipline and independent study skills, which I feel will benefit me greatly.
+
