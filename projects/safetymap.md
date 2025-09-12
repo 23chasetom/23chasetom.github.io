@@ -11,6 +11,8 @@ labels:
 summary: "My team and I designed a safety evacuation map for Waimalu Elementary School."
 ---
 
+<img width="750px" class="rounded float-start pe-4" src="../img/DdK3VdSHyLk3Efdu93xwX2S1NgIKpOxRdIIIQLSCW1XGRJ8u1069530710841696617 (1).jpg">
+
 My team and I undertook a project to design a safety evacuation map for Waimalu Elementary School. The primary objective was to create a clear, accurate, and easily understandable visual guide for students and faculty to follow in the event of an emergency, such as a fire or natural disaster. The project involved digitally mapping the entire school campus, including all buildings, classrooms, exits, primary and secondary evacuation routes, and designated safe assembly points. We utilized Computer-Aided Design (CAD) software to ensure precision and professionalism in the final deliverable, which was intended to replace the school's existing, outdated plans.
 
 As a key member of the team, my role was various. I was primarily responsible for the on-site measurements and data collection, verifying the dimensions and layout of each building and outdoor area. I then translated this  data into the CAD drawings, creating the base layers for the campus map. Furthermore, I took the lead on designing the symbology and legend, ensuring that the icons for exits, fire extinguishers, first-aid stations, and routes were intuitive and universally recognizable.
