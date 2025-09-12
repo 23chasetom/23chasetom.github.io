@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/1.jpeg
+image: img/jambajuice.jpeg
 title: "Jamba Juice Simulator"
 date: 2025-09-11
 published: true
