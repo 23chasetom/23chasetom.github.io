@@ -12,6 +12,8 @@ labels:
 summary: "During the summer of 2020, I researched and constructed my own PC."
 ---
 
+<img width="750px" class="rounded float-start pe-4" src="../img/2023_0202_12573400.webp">
+
 The primetime of Covid, where everything was basically off-limits, and EVERYONE had too much time. For some, they found hobbies, worked-out, or explored life. As a teen during this era, I had too much time and no responsibility. I'd wake up, play video games, eat food, and repeat. Reflecting back on this now, this was the life. However, as more and more games came out, each with better graphics and more demanding systems, my laptop just wasn't cutting it anymore. The choppy 60fps, membrane keyboard, and small 14-inch display didn't satisfy me anymore. As a child, I dreamed of eventually building my own PC, although it seemed a devious task, filled with researching and complex parts, I was determined to learn. So I began watching youtube videos, tutorials, and tips-and-tricks for building my own PC. After weeks, even months of research and preparing myself, I was ready, but I had one small problem: I was a broke teen with no money.
 
 I had a total of $60 to my name, with no source of income. So how would I afford all the parts and everything? Should I ask my parents? No, I decided to actually get a job. Over the Covid period, I worked with my dad in construction. The work was brutal and exhausting, I remember carrying loads of wood and working with concrete almost everyday. I was ready to quit, but the thought of having my own computer kept me going.
