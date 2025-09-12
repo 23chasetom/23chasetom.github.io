@@ -12,28 +12,12 @@ labels:
 summary: "During the summer of 2020, I researched and constructed my own PC."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+The primetime of Covid, where everything was basically off-limits, and EVERYONE had too much time. For some, they found hobbies, worked-out, or explored life. As a teen during this era, I had too much time and no responsibility. I'd wake up, play video games, eat food, and repeat. Reflecting back on this now, this was the life. However, as more and more games came out, each with better graphics and more demanding systems, my laptop just wasn't cutting it anymore. The choppy 60fps, membrane keyboard, and small 14-inch display didn't satisfy me anymore. As a child, I dreamed of eventually building my own PC, although it seemed a devious task, filled with researching and complex parts, I was determined to learn. So I began watching youtube videos, tutorials, and tips-and-tricks for building my own PC. After weeks, even months of research and preparing myself, I was ready, but I had one small problem: I was a broke teen with no money.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+I had a total of $60 to my name, with no source of income. So how would I afford all the parts and everything? Should I ask my parents? No, I decided to actually get a job. Over the Covid period, I worked with my dad in construction. The work was brutal and exhausting, I remember carrying loads of wood and working with concrete almost everyday. I was ready to quit, but the thought of having my own computer kept me going.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Eventually, I was able to scrounge up a grand total of about $2000. Immediately I bought a brand new 144hz 27inch display, a mechanical keyboard, new speakers, and the PC parts itelf. Although, at this time, the market for buying a GPU was horrible. I had to stay up til almost 6am in the morning, waiting for Bestbuy to restock the GPU's, and even then I had to compete with almost thousands of others. Yet, I was able to come out victorious.
 
-Here is some code that illustrates how we read values from the line sensors:
+After getting all my parts, I spent around half a day building the computer. It was challenging, and the manual wasn't that helpful, but eventually I was able to do it. And after years of using it, I can definitely say that it was worth it. It has allowed me to play the most demanding video games in beautiful graphics, and I use it til this day for computer science projects and coding.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+Overall, I've learned alot from researching, planning, and building my own PC. From patience, discipline, and hardwork.
