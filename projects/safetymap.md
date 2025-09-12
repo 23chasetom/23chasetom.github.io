@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/YyRY8T46P7AZ9LPfiJfHWN.jpg
+image: img/school_logo.png
 title: "Designing an Evacuation Map"
 date: 2025
 published: true
