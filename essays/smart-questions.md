@@ -11,8 +11,6 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
-
 ## Smart Questions
 Asking smart questions are very important. It demonstrates respect for the responder and increases the likelihood of receiving actual helpful responses. A smart question is essentially built on three fundamentals:
 
