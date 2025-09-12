@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Building my PC"
-date: 2025-09-11
+date: 2025
 published: true
 labels:
   - Hardware Building
