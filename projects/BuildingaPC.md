@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/YyRY8T46P7AZ9LPfiJfHWN.jpg
 title: "Building my PC"
 date: 2025
 published: true
