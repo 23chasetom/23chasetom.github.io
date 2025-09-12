@@ -11,7 +11,7 @@ labels:
 summary: "Creating a Jamba Juice Simulator to replicate orders, menu items, and inventory."
 ---
 
-<img width="750px" class="rounded float-start pe-4" src="../img/jambajuicemenu.jpg">
+<img width="425px" class="rounded float-start pe-4" src="../img/jambajuicemenu.jpg">
 
 ## The Jamba Juicer
 I engineered a Jamba Juice Simulator in TypeScript to replicate the end-to-end workflow of Jamba Juice. The application features a dynamic menu system, a customer order interface, and a core inventory management component that tracks ingredients in real-time. The system is built with scalability in mind, allowing for new menu items to be added seamlessly. A key feature is the pre-fulfillment inventory check, which prevents orders from being placed if sufficient ingredients are unavailable, mirroring a critical real-world business operation.
