@@ -18,6 +18,7 @@ This analogy raises a critical question: Can these coding standards, these "laws
 
 <div style="clear: both;"></div>
 
+
 ## ESLint
 My use of ESLint in VSCode so far has been almost entirely positive. As mentioned in the previous section, coding standards, and the maintaining of them, is essential in programming. So, having a tool such as ESLint available at all times improves my practice by margins. It keeps code consistent and helps identify errors. But its integration with VSCode elevates it from a simple error-checker to an active learning partner. Instead of waiting to run a program to discover a syntax error, ESLint highlights issues as I type. This instant feedback is invaluable for reinforcing correct patterns and breaking bad habits.  
 However, this begs the question: Is getting rid of ESLint errors painful, useful, or both? Initially, the process was like a jumpscare. My screen is filled with errors, and a wave of red underlines fill my screen. Fixing such errors is tedious, but it must be done. Yet, these highlighted errors are what make ESLint helpful. It teaches coders, such as myself, the proper way to write code and how to adhere to the coding standard.  
