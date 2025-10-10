@@ -11,7 +11,7 @@ labels:
   - HTML/CSS
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/sisyphus.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/bootstrap-5-layout.jpg">
 
 ## Introduction
 In the world of software engineering, building a complex, responsive, and user-friendly website from the ground up is a very, very difficult task. Then comes User Interface (UI) frameworks, which according to “The Power of UI Frameworks,” are pre-written collections of standardized HTML, CSS, and JavaScript code that helps developers build web applications and websites much more efficiently. They help developers organize code, reduce repetitive tasks, and give them a variety of tools to create projects.
