@@ -21,4 +21,3 @@ From a software engineering perspective, I believe TypeScript is a good language
 
 ## Self-learning
 The practice WODs have been very useful for actually applying and remembering TypeScript concepts. Often, I don't fully know what I'm doing at first, but redoing the WODs and eventually completing them efficiently teaches me a tremendous amount. This style of learning, where we study outside of class and tackle assignments like WODs during class is very different from my traditional classes. But I like it. It's different, and most importantly, it's engaging. I'm not just mindlessly reading a lecture that I could have gone through at home. It's enjoyable, albeit a little stressful, since I'm tasked with active, graded work every time I come to class. Ultimately, I believe this model will teach me self-discipline and independent study skills, which I feel will benefit me greatly.
-
