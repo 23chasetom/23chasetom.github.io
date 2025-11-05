@@ -1,12 +1,14 @@
+---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: "Final Project Idea - "
 date: 2025-11-04
 labels:
   - Software Engineering
   - Nextjs
+---
 
-
+## Overview
 The Problem:
 Communication within universities like UH Manoa is often lacking and messy. Students, faculty, and clubs rely on various platforms, from email, Discord, Instagram, and word-of-mouth to share announcements, organize events, create activities, etc. At some point, managing and constantly checking each platform gets tedious. As a result, students frequently miss important updates, or struggle to stay involved with the university community.
 
@@ -19,11 +21,11 @@ The platform enables users to stay informed with official announcements and dail
 
 
 
-Approach:
+## Approach:
 The application will create a verified social ecosystem exclusive for each university.
 Students, faculty, and clubs can join via official school emails to ensure verification.
 
-Some possible mockup pages:
+# Mockup pages:
 Landing Page – Introduces ManoaNet and highlights its purpose as a unified communication platform for UH Mānoa. Includes login and sign-up options for students, faculty, and verified clubs, as well as a brief tour of key features.
 Home Page – Displays a TikTok-style vertical feed featuring official announcements, event promotions, polls, and daily campus updates. Only verified faculty and club accounts can post, while all users can like, comment, and share.
 Chat Page – Provides multiple communication options, including live chats and club chats, threaded discussion posts, and private message groups. Supports real-time messaging and topic-based channels for organized conversation.
@@ -45,7 +47,7 @@ Admin:
 
 
 
-Beyond the Basics
+# Beyond the Basics
 Notifications:
 Users receive push or email alerts for events, polls, or announcements related to their classes or clubs.
 AI-Integration:
