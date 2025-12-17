@@ -1,23 +1,69 @@
+<style>
+  .project-image {
+    width: 100%;
+    max-width: 200px;
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .project-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+</style>
+
 <div class="card mb-3">
   <div class="row g-0">
-    <div class="col-sm-6 col-md-4">
-      <img src="{{ site.baseurl }}/{{ include.page.image }}" height="225px" class="rounded-start">
+
+    <!-- Project Image -->
+    <div class="col-sm-6 col-md-4 d-flex align-items-center justify-content-center">
+      <div class="project-image">
+        <img
+          src="{{ site.baseurl }}/{{ include.page.image }}"
+          alt="{{ include.page.title }}"
+          class="img-fluid rounded-start"
+        >
+      </div>
     </div>
+
+    <!-- Project Content -->
     <div class="col-sm-6 col-md-8">
       <div class="card-body">
-        <h5 class="card-title">{{ include.page.title }} <small class="text-muted float-end">{{ include.page.date }}</small></h5>
-        <p class="card-text">{{ include.page.summary }}</p>
+        <h5 class="card-title">
+          {{ include.page.title }}
+          <small class="text-muted float-end">{{ include.page.date }}</small>
+        </h5>
+
+        <p class="card-text">
+          {{ include.page.summary }}
+        </p>
+
         <p>
           {% for label in include.page.labels %}
-          <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>
+            <span
+              style="background-color: var(--tf-pill-bg)"
+              class="badge rounded-pill"
+            >
+              {{ label }}
+            </span>
           {% endfor %}
         </p>
+
         {% if page.projecturl %}
-        <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Project Site</a>
+          <a href="{{ page.projecturl }}" class="btn btn-outline-dark">
+            Project Site
+          </a>
         {% else %}
-        <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
+          <a href="{{ site.baseurl }}{{ include.page.url }}" class="btn btn-outline-dark">
+            Read More
+          </a>
         {% endif %}
       </div>
     </div>
+
   </div>
 </div>
