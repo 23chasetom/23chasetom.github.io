@@ -4,7 +4,7 @@ type: essay
 title: "What makes a question smart or stupid?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
-published: true
+published: false
 labels:
   - Questions
   - Answers
