@@ -38,7 +38,7 @@ The school page was designed to provide users with a centralized view of what le
 
 ## UI Quality
 
-![RateMyTools Demo](../img/)
+![RateMyTools Demo](/img/RMT_gif-ezgif.com-video-to-gif-converter.gif)
 
 To maintain UI consistency across the application, I oversaw the front-end design of the webpages. This included implementing features such as navigation bar scrolling behavior, standardized review tags and rating components, and consistent design choices related to spacing, color usage, layout, etc.
 
@@ -46,4 +46,5 @@ To maintain UI consistency across the application, I oversaw the front-end desig
 
 ### Links
 [Application](https://rate-my-tools-sc.vercel.app/)
+
 [Organization](https://ratemytool.github.io/RateMyToolPage/)
