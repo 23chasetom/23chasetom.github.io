@@ -19,7 +19,7 @@ At the beginning of this course, I viewed software engineering as both the front
 
 ---
 
-## Configuration management
+## Configuration Management
 One fundamental concept I learned is configuration management. Configuration management is the process of tracking, controlling, and managing changes to software artifacts such as source code, dependencies, and environments. In this course, I practiced configuration management through version control systems such as Git and GitHub. By using commits, branches, and pull requests, I learned how to keep track of changes, collaborate with others, and recover from mistakes. For example, in my final project, RateMyTools, my team and I split the milestones into goals, which we each worked on in our own branch via GitHub. This management system made the process of combining our work together much smoother, allowing us to combine any changes made in a simple click. And from milestone to milestone, we were able to keep track of each version, and make any changes or reversions if necessary.
 
 Beyond web applications, configuration management is essential in any software project where multiple people work together or where systems evolve over time. For example, in game development, management ensures that changes are documented, reproducible, and reversible.
@@ -38,5 +38,5 @@ This concept can be applied into areas like desktop software, APIs, and game eng
 
 ---
 
-## My Journey
+## Journey
 This course changed how I think about software engineering. Instead of focusing solely on technical skills and writing “correct” code, I now think more about structure, collaboration, and long-term design. Plus, the concepts I learned apply to nearly any technical project, not just web development. This shift in perspective has helped me see software engineering as a discipline centered on problem solving and thoughtful design, rather than just programming tools or frameworks.
