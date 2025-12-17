@@ -22,7 +22,9 @@ The application was developed as a team project, with both the front-end and bac
 
 ## Landing Page
 
-<img width="400px" class="rounded float-start pe-4" src="../img/RMT_landing.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/RMT_landing.png">
+
+<div style="clear: both;"></div>
 
 The RateMyTools landing page serves as the main entry point for the application, introducing users to the platform’s purpose and core functionality. From this page, users can quickly search for either a learning tool or a school to view ratings and student reviews, allowing them to immediately engage with the platform without unnecessary navigation. I specifically designed the navigation bar and overall user interface of the landing page, focusing on clarity, accessibility, and ease of use. Visual elements and spacing were used to promote usability, while the navigation bar provides clear access to other features such as comparisons and user accounts. This design approach prioritized usability and ensures a smooth first experience for new users.
 
@@ -30,13 +32,17 @@ The RateMyTools landing page serves as the main entry point for the application,
 
 ## School Page
 
-<img width="400px" class="rounded float-start pe-4" src="../img/RMT_school.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/RMT_school.png">
+
+<div style="clear: both;"></div>
 
 The school page was designed to provide users with a centralized view of what learning tools are being used and how they are rated at a specific institution. From this page, users can see a list of tools associated with the selected school, along with their overall ratings and review counts. This allows students to quickly understand which tools are most commonly used and which ones are viewed as the most helpful within that academic environment. It also features a filter option, where users can sort by course number or subject.
 
 ---
 
 ## UI Quality
+
+<div style="clear: both;"></div>
 
 ![RateMyTools Demo](/img/RMT_gif-ezgif.com-video-to-gif-converter.gif)
 
