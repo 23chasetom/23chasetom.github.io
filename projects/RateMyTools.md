@@ -50,6 +50,14 @@ To maintain UI consistency across the application, I oversaw the front-end desig
 
 ---
 
+## What I Learned
+
+This project taught me several important lessons, both technical and collaborative. First off, I learned how to work effectively with others using GitHub, particularly when managing codebases, merge conflicts, and branch control. I also developed stronger time management skills by working towards deadlines and balancing multiple tasks. And most importantly, I gained hands-on experience working on front-end and back-end development, and creating an application to deploy via Vercel.
+
+Beyond the technical skills, this project highlighted the importance of teamwork. Through in-person meetings and communication via Discord, my team and I were able to setup milestones, discuss progress, and stay locked in throughout development. This taught me how communication is key.
+
+---
+
 ### Links
 [Application](https://rate-my-tools-sc.vercel.app/)
 
