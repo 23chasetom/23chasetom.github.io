@@ -38,7 +38,7 @@ The school page was designed to provide users with a centralized view of what le
 
 ## UI Quality
 
-https://github.com/USERNAME/REPO/blob/main/img/RMT_gif.mp4
+![RateMyTools Demo](../img/)
 
 To maintain UI consistency across the application, I oversaw the front-end design of the webpages. This included implementing features such as navigation bar scrolling behavior, standardized review tags and rating components, and consistent design choices related to spacing, color usage, layout, etc.
 
