@@ -21,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript" ]
+      "keywords": [ "C", "Java", "Javascript", "TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows 11" ]
+      "keywords": [ "Windows 11", "Visual Studio Code", "Git/GitHub", "Vercel", "Neon", "Prisma", "PostgreSQL" ]
     }
   ],
   "education": [
@@ -37,6 +37,30 @@
       "endDate": "Present",
       "courses": [
       ]
+    }
+    {
+      "institution": "University of Puerto Rico - Rio Piedras, San Juan, PR",
+      "area": "General",
+      "studyType": "Exchange",
+      "startDate": "2025-01-21",
+      "endDate": "2025-05-23",
+      "courses": [
+      ]
+    }
+  ],
+  "Job Experience": [
+    {
+      "company": "Sams Club",
+      "position": "Online Order Filling Team Associate",
+      "website": "",
+      "startDate": "2025-06-12",
+      "endDate": "2025-08-23",
+      "summary": "",
+      "highlights": [
+          "Fulfilled online grocery orders with accuracy and efficiency in a high-volume retail environment",
+          "Used inventory systems to locate products and manage order status",
+          "Worked collaboratively with team members to meet pickup deadlines",
+          "Ensured a positive customer experience through attention to detail and problem resolution"
     }
   ],
   "references": [
