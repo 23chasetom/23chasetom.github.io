@@ -4,7 +4,7 @@ type: project
 image: img/jamba.jpg
 title: "Jamba Juice Simulator"
 date: 2025-09-11
-published: true
+published: false
 labels:
   - Typescript
   - Objects
