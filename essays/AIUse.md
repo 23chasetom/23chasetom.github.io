@@ -10,7 +10,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/5bddefe6854d84cf8b6cf618a2af8801.jpg">
+<img width="600px" class="rounded float-start pe-4" src="../img/5bddefe6854d84cf8b6cf618a2af8801.jpg">
 
 ## Introduction
 
