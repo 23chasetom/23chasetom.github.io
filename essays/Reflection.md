@@ -12,7 +12,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/5bddefe6854d84cf8b6cf618a2af8801.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/SDLC_-_Software_Development_Life_Cycle.jpg">
 
 ## Starting New
 At the beginning of this course, I viewed software engineering as both the front-end and back-end development, working with both design and structure. I only expected to learn how to build websites, connect and create databases, and write front-end and back-end code. While these were important skills I did eventually gain, this course ultimately taught me that software engineering is less about technical skills, and more about structured thinking, collaboration, and long-term supportability. Through concepts such as configuration management, agile project management, and design patterns, I learned principles that apply far beyond web development.
