@@ -10,6 +10,8 @@ labels:
   - Artificial Intelligence
 ---
 
+5bddefe6854d84cf8b6cf618a2af8801.jpg
+
 ## Introduction
 
   It seems to be that AI will act as a new foundation in education. The practice of AI is everywhere, in every market, job, etc. This phenomenon is further highlighted in Software Engineering. A software engineer’s job is to find the most efficient way to code something. This process can be made much easier by the use of AI. Artificial intelligence is used by Software Engineers for a variety of reasons, from bug fixing, simple formatting, function implementations, etc. Essentially, the presence of AI in the current market is vast, and will only continue to grow and develop. Thus, the job of educators is to teach the new generation on how to properly utilize AI. Throughout my college career, I have used AI tools such as ChatGPT, Co-Pilot, and Figma. 
